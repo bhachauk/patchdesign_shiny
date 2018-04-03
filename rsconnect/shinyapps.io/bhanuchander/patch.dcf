@@ -1,0 +1,10 @@
+name: patch
+title:
+username:
+account: bhanuchander
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 270266
+bundleId: 1299215
+url: https://bhanuchander.shinyapps.io/patch/
+when: 1522734262.32343
