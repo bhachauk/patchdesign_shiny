@@ -3,7 +3,6 @@
 A simple patch antenna design web tool powered by R shiny.
 
 ##### Design Requirements
-
 <hr>
 
 
@@ -12,7 +11,6 @@ A simple patch antenna design web tool powered by R shiny.
 - Thickness/Height of the Cavity
 
 ##### Deliverable
-
 <hr>
 
 - Patch Width           
@@ -26,7 +24,6 @@ A simple patch antenna design web tool powered by R shiny.
 
 
 ##### Demo
-
 <hr>
 
 <p align="center">
