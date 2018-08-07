@@ -4,11 +4,16 @@ A simple patch antenna design web tool powered by R shiny.
 
 ##### Design Requirements
 
+<hr>
+
+
 - Resonant Frequency (Fr)
 - Dielectric Constant of Cavity Material
 - Thickness/Height of the Cavity
 
 ##### Deliverable
+
+<hr>
 
 - Patch Width           
 - Patch Length          
@@ -21,6 +26,8 @@ A simple patch antenna design web tool powered by R shiny.
 
 
 ##### Demo
+
+<hr>
 
 <p align="center">
 <kbd>
