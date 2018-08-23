@@ -2,6 +2,11 @@
 
 A simple patch antenna design web tool powered by R shiny.
 
+##### Dependencies
+
+[![R](https://img.shields.io/badge/R-3.5.0-blue.svg?longCache=true&style=plastic)](https://www.r-project.org/)
+[![Shiny](https://img.shields.io/badge/Shiny-1.1.0-blue.svg?longCache=true&style=plastic)](https://shiny.rstudio.com/)
+
 ##### Design Requirements
 <hr>
 
