@@ -9,7 +9,7 @@
         clear: both;
 }
 
-.wrap-img{
+p.wrap-img{
     background: #c94b4b;  
     background: -webkit-linear-gradient(to right, #4b134f, #c94b4b);  
     background: linear-gradient(to right, #4b134f, #c94b4b); 
@@ -52,5 +52,7 @@ A simple patch antenna design web tool powered by R shiny.
 ##### Demo
 <hr>
 
-![img](/www/patch-design.gif)
-{: .wrap-img}
+<p align="center" class="wrap-img">
+<kbd>
+<img src="/www/patch-design.gif" width="400" height="400"/>
+</kbd></p>
