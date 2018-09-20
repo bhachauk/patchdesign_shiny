@@ -1,22 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css"/>
-<style>
-.imgbrd {
-        border: 1px solid #902f3f;
-        width : auto;
-        padding: 20px;
-        border-bottom-right-radius: 8px;
-        border-bottom-left-radius: 8px;
-        clear: both;
-}
-
-p.wrap-img{
-    background: #c94b4b;  
-    background: -webkit-linear-gradient(to right, #4b134f, #c94b4b);  
-    background: linear-gradient(to right, #4b134f, #c94b4b); 
-}
-
-</style>
-    
 ### Patch Antenna Design - With Shiny
 <hr>
 
