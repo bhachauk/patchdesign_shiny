@@ -1,4 +1,14 @@
 <link rel="stylesheet" type="text/css" href="style.css"/>
+<style>
+.imgbrd {
+        border: 1px solid #902f3f;
+        width : auto;
+        padding: 20px;
+        border-bottom-right-radius: 8px;
+        border-bottom-left-radius: 8px;
+        clear: both;
+}
+</style>
     
 ### Patch Antenna Design - With Shiny
 <hr>
@@ -35,7 +45,5 @@ A simple patch antenna design web tool powered by R shiny.
 ##### Demo
 <hr>
 
-<p align="center" class="wrap-img">
-<kbd>
-<img src="/www/patch-design.gif" width="400" height="400"/>
-</kbd></p>
+![img](/www/patch-design.gif)
+{. :imgbrd}
