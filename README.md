@@ -46,4 +46,4 @@ A simple patch antenna design web tool powered by R shiny.
 <hr>
 
 ![img](/www/patch-design.gif)
-{. :imgbrd}
+{: .imgbrd}
