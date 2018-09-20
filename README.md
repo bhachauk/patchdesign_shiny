@@ -8,6 +8,13 @@
         border-bottom-left-radius: 8px;
         clear: both;
 }
+
+.wrap-img{
+    background: #c94b4b;  
+    background: -webkit-linear-gradient(to right, #4b134f, #c94b4b);  
+    background: linear-gradient(to right, #4b134f, #c94b4b); 
+}
+
 </style>
     
 ### Patch Antenna Design - With Shiny
@@ -46,4 +53,4 @@ A simple patch antenna design web tool powered by R shiny.
 <hr>
 
 ![img](/www/patch-design.gif)
-{: .imgbrd}
+{: .wrap-img}
