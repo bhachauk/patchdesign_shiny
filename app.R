@@ -67,11 +67,11 @@ ui <- fluidPage(
     )
     ),
   absolutePanel(
-    img(src='square_icon.png', align = "right-top")
+    a(img(src='square_icon.png', align = "right-top"),href="https://bhanuchander210.github.io")
     , id = "input_date_control", class = "panel panel-default", fixed = TRUE
     , draggable = FALSE, top = 'auto', left = 'auto', right = 0, bottom = 0
     , width = '5%', height = 'auto'
-  )  
+  ) 
   
 
   )

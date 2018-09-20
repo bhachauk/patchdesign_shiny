@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css"/>
+    
 ### Patch Antenna Design - With Shiny
 <hr>
 
@@ -33,7 +35,7 @@ A simple patch antenna design web tool powered by R shiny.
 ##### Demo
 <hr>
 
-<p align="center">
+<p align="center" class="wrap-img">
 <kbd>
 <img src="/www/patch-design.gif" width="400" height="400"/>
 </kbd></p>
