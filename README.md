@@ -35,5 +35,5 @@ A simple patch antenna design web tool powered by R shiny.
 
 <p align="center" class="wrap-img">
 <kbd>
-<img src="/www/patch-design.gif" width="400" height="400"/>
+<img src="https://bhanuchander210.github.io/www/patch-design.gif" width="400" height="400"/>
 </kbd></p>
